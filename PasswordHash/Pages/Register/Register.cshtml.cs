@@ -31,6 +31,7 @@ namespace PasswordHash.Pages
 
         public void OnPost()
         {
+            //Hashowanie danych uzytkowanika
             string passwordPattern = @"[a-z0-9]+";
             string namePattern = @"[a-z]+";
             string emailPattern = @"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$";
@@ -67,7 +68,6 @@ namespace PasswordHash.Pages
             {
                 HashedEmail = "Z³y format Emaila";
             }
-            // Haszowanie has³a przy u¿yciu BCrypt
         }
 
     }

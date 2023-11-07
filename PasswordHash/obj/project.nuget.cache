@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ry3H+OXyPP8yNHuHGx0VcFjmIg86rZS72z5Nc4jP3s3V8EGKHIfQL8QZoiJB2lbhzbgHl5PBFtfGXYwg+jkzgw==",
+  "dgSpecHash": "OhA3KOF9vzU/CUDF6VtBYvV+2MRihQIazBd0jvlKgSVzgp9DCDEj+9ZauqURzNF4IT3PR46NLNqAN1j9XBopYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\matic\\source\\repos\\PasswordHash\\PasswordHash\\PasswordHash.csproj",
+  "projectFilePath": "C:\\Users\\matic\\Desktop\\PasswordHash\\PasswordHash\\PasswordHash.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matic\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
   ],
